@@ -1,16 +1,16 @@
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
-  <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
+  <a href="https://github.com/Anthoniraj82627/TG-FileStreamBot">
     <img src="https://socialify.git.ci/EverythingSuckz/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
     A Telegram bot to stream files to web
     <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
+    <a href="https://github.com/Anthoniraj82627/TG-FileStreamBot"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/Anthoniraj82627/TG-FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/Anthoniraj82627/TG-FileStreamBot/issues">Request Feature</a>
   </p>
 </p>
 
